@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mykola-drone-dev
+- 👀 I’m interested in neural interfaces
+- 🌱 I’m currently learning Golang
+- 💞️ I’m planning to develop a telegram bot that will scrap data from local ticket shop and alert me when tickets arrive (after Ukraine wins the war)
+- 📫 How to reach me: mykola.papenko [at] gmail or t.me/Reactive_Cat
